@@ -12,6 +12,6 @@ The **Airline Management System** automates airline registration and ticketing p
 ## Technologies Used
 - Language: Java Core
 - GUI: Swing
-- IDE: NetBeans
+- IDE: Eclipse
 - Database: MySQL
 
